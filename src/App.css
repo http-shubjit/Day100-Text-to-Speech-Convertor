@@ -1,0 +1,14 @@
+.app-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.app-title {
+  color: #1890ff;
+}
+
+.app-input {
+  margin-top: 10px;
+}
